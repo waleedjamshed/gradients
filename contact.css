@@ -1,0 +1,14 @@
+h1 {
+  text-decoration: underline;
+}
+
+.gradient-canvas {
+  --gradient-color-1: #340e6b;
+  --gradient-color-2: #0909fb;
+  --gradient-color-3: #0909fb;
+  --gradient-color-4: #da28c8;
+  width: 100vw;
+  height: 100vh;
+  margin-top: -8px;
+  margin-left: -8px;
+}
